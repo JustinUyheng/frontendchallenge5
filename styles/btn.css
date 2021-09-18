@@ -1,0 +1,11 @@
+.btn {
+    margin-top: 40px;
+    border-radius: 30px;
+    padding: 20px 40px;
+    background-color: #000000;
+}
+
+.btn a {
+    color: #FFFFFF;
+    font-size: 12px;
+}

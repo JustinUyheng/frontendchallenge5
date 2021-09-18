@@ -1,0 +1,34 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    display: flex;
+    height: 20px;
+    padding: 10px;
+}
+
+.logo a {
+    color: #000000;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-end;
+}
+
+.menu-item:not(:last-child) {
+    margin: 0 75px 0 0;
+}
+
+.menu-item a {
+    color: #000000;
+}

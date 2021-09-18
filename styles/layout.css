@@ -1,0 +1,16 @@
+.main {
+    height: 100%;
+    margin: 90px 70px 0px 70px;
+    border-radius: 10px;
+}
+
+.header {
+    padding: 40px 60px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
